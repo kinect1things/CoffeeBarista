@@ -1,6 +1,6 @@
 ### I'm going to build a Coffee Barista
 ### Shout Out to Network Chuck
-### https://www.youtube.com/watch?v=IXr0-J5XXMA
+![YouTube](https://www.youtube.com/watch?v=IXr0-J5XXMA)
 
 
 
