@@ -1,9 +1,5 @@
 ### I'm going to build a Coffee Barista
 ### Shout Out to Network Chuck
-![YouTube](https://www.youtube.com/watch?v=IXr0-J5XXMA)
-
-
-
 print("Hello, Welcome to Coffee Barista. Thank you so much for coming in today!")
 
 u_name = input("What's your name?\n")
